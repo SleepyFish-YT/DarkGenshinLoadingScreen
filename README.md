@@ -7,7 +7,7 @@ Please consider that i dont really code in python and i just made this in like 2
 - Renders Random Image from `./memes` path
 
 # Preview
-![image](https://github.com/user-attachments/assets/8d3ada18-7ea6-4d54-9fe7-d9c6a9541fb7)
+![image](https://github.com/user-attachments/assets/a72d0976-20f3-46c4-942d-80c76cc839f7)
 ##### Keep in mind the image rendered on the top right is random
 
 # Discord Server
